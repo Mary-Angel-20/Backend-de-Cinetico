@@ -1,0 +1,25 @@
+#movies{
+  position: absolute;
+  display: flex;
+  width: 100%;
+  top: 140px;
+  justify-content: center;
+  background: #1F1A26;
+}
+
+#movieList{
+  justify-content: space-between;
+  display: flex;
+  flex-wrap: wrap;
+  width: 800px;
+  margin-top: 100px;
+}
+
+#search{
+  font-style: normal;
+  font-weight: 700;
+  font-size: 30px;
+  line-height: 36px;
+  text-align: center;
+  color: #FFFFFF;
+}
